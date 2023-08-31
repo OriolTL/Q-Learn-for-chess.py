@@ -15,6 +15,9 @@ The code will return the amount of time it has been training and an exit code 0.
 # How to play:
 To play against the AI, one has to run the file named Playable_SARSA_chess.py, the moves have to be introduced as they 
 are in these examples:
+
 If you want to move the pawn from the e2 square to the e4 square you have to write: e2e4
+
 If you want to castle king-side as white: e1g1
+
 If you want to promote the g-file pawn as black: g7g8q (where the q means queen)
